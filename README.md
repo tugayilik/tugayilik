@@ -6,7 +6,7 @@ I am currently working at [Insider](https://useinsider.com/) as Shareholder & Se
 
 ##### Contact
 
-* <img src="https://github.com/tugayilik/tugayilik/blob/master/send.svg" width="16" height="16" /> Mail: tugayilik@gmail.com
+* <img src="https://github.com/tugayilik/tugayilik/blob/master/send.svg" width="16" height="16" /> tugayilik@gmail.com
 * <img src="https://github.com/tugayilik/tugayilik/blob/master/linkedin.svg" width="16" height="16" /> [LinkedIn](https://www.linkedin.com/in/tugay-ilik/)
 
 ##### Social
