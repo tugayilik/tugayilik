@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**tugayilik/tugayilik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working at [Insider](https://useinsider.com/) as Shareholder & Senior Software Engineer. I'm mostly/actively taking part in designing, developing, implementing and scaling softwares/applications from the ground up. I have professional experience and specialization at working with web applications and microservices. 
 
-Here are some ideas to get you started:
+**Skills**: PHP | Javascript | Vue.js | Node.js | Redis | AWS (Lambda, EC2, S3, Elastic Beanstalk, RDS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Contact
+
+* <img src="https://github.com/tugayilik/tugayilik/blob/master/send.svg" width="16" height="16" /> Mail: tugayilik@gmail.com
+* <img src="https://github.com/tugayilik/tugayilik/blob/master/linkedin.svg" width="16" height="16" /> [LinkedIn](https://www.linkedin.com/in/tugay-ilik/)
+
+##### Social
+* <img src="https://github.com/tugayilik/tugayilik/blob/master/stackoverflow.svg" width="16" height="16" /> [Stackoverflow](https://stackoverflow.com/users/8856591/tugay-%c4%b0lik)
+* <img src="https://github.com/tugayilik/tugayilik/blob/master/medium.svg" width="16" height="16" /> [Medium](https://medium.com/@tugayilik)
+
+##### Motto
+> Learn from the mistakes of others. You can't live long enough to make them all yourself. - Eleanor Roosevelt
