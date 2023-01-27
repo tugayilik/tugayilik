@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working at [Insider](https://useinsider.com/) as Shareholder & Senior Software Engineer. I'm mostly/actively taking part in designing, developing, implementing and scaling softwares/applications from the ground up. I have professional experience and specialization at working with web applications and microservices.
+I am currently working at [Insider](https://useinsider.com/) as Shareholder & Staff Software Engineer. I’m leading a software development team and also mostly/actively taking part in designing, developing, implementing and scaling softwares/applications from the ground up. I have professional experience and specialization at working with web applications and microservices.
 
 ##### Contact
 
